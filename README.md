@@ -92,7 +92,7 @@ RBI-Consumer-Complaint-Intelligence-System/
 
 ## 📷 Dashboard Preview
 
-(Add dashboard screenshot here)
+![Dashboard](dashboard.png)
 
 ---
 
